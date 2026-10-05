@@ -1,5 +1,9 @@
 # ILLUMINA-450K-METHYLATION-ANALYSIS
 
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Illumina](https://img.shields.io/badge/Illumina-450K-FF6F00?style=flat)
+![Methylation](https://img.shields.io/badge/DNA-Methylation-6A5ACD?style=flat)
+
 ## Table of contents
 - [Overview](#overview)
 - [Requirements](#requirements)
